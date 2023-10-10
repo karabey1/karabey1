@@ -5,7 +5,7 @@
 🛠 I'm C/C++ Developers
 
 📃 DDoS Service:
-🧱 UDP/TCP/HEX/ACK/SYN/LİST
+🧱 UDP/TCP/HEX/ACK/SYN
 
 
 
