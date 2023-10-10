@@ -7,13 +7,14 @@
 📃 DDoS Service:
 🧱 UDP/TCP/HEX/ACK/SYN
 
-
+<?php 
 
 $myname = "KaraBey";
 $date = date(Y-t-d);
 
 echo " ".$myname."  ".$date." ";
 
+?>
 
 
 
