@@ -8,15 +8,12 @@
 🧱 UDP/TCP/HEX/ACK/SYN
 
 
-#
+
 $myname = "KaraBey";
 $date = date(Y-t-d);
 
-echo "------------------------";
-echo "|    ".$myname."       |";
-echo "|    ".$date."         |";
-echo "------------------------";
-#
+echo " ".$myname."  ".$date." ";
+
 
 
 
